@@ -8,3 +8,7 @@ has a global minimum that can be calculated to find the optimal set of weights.
 Use linear regression when your data is roughly linear and when your inputs and outputs are continuous. Beware outliers. 
 
 Allows you to see how each factor the output.
+
+Coefficient of determination tells us how much of the variance in the dependent variable can be explained by the independent variable(s)
+It is a measure of the improvement in predicting power of relying on the independent variables rather than the mean of the population
+
