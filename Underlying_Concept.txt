@@ -1,0 +1,10 @@
+Given a set of training features X and labels Y, come up with a set of weights that most accurately predict a new y given a new x.
+
+The weights are a set of coefficients and the x values are all to the first power, thus the entire function is linear.
+
+Standard loss function is the squared distance between the predicted y and actual y. The derivative of the loss function
+has a global minimum that can be calculated to find the optimal set of weights.
+
+Use linear regression when your data is roughly linear and when your inputs and outputs are continuous. Beware outliers. 
+
+Allows you to see how each factor the output.
